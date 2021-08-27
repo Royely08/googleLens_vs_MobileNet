@@ -1,27 +1,11 @@
 .heading{
-    font-size: 23px;
-    width: 100%;
-    margin: 0%;
-    box-shadow: 5px 5px 5px grey;
+  font-size: bold;
+  color: black;
 }
 
-.note{
-    font-size: 15px;
-    color: black;
+.mini_result{
+  font-size: bold;
+  color:brown;
 }
-
-.copyright_footer{
-    position: fixed;
-    color: white;
-    bottom: 0%;
-    width: 100%;
-    background-color: grey;
-    line-height: 3;
-    text-align: center;
-}
-
-canvas{
-    border: 5px solid white;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px grey;
-}
+ 
+ 
